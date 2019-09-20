@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Smart Home</string>
+    <string name="commons.linearlayoutmanager">android.support.v7.widget.LinearLayoutManager</string>
+    <string name="disconnect">Desconectado</string>
+</resources>
